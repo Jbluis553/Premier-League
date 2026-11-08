@@ -1,0 +1,9 @@
+# Hiperparametros del pipeline
+lookback_home_away: 5      # ultimos N partidos del mismo lado (local/visitante)
+lookback_any: 10           # ultimos M partidos de cualquier lado para tasa BTTS
+xg_lookback: 5             # ultimos K partidos para xG promedio
+test_fraction: 0.20        # fraccion cronologica para test
+train_seasons: 6           # cuantas temporadas usar como maximo (0 = todas las disponibles)
+min_odds_coverage: 0.50    # minimo % de partidos con cuota BTTS para usarla como feature
+use_odds_feature: true     # incluir closing odds BTTS-Yes como feature
+random_state: 42

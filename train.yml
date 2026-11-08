@@ -1,0 +1,54 @@
+name: Train
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # lunes 06:00 UTC (tras la jornada habitual de la Premier League)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-train:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Descargar datos reales (incremental)
+        env:
+          THESTATSAPI_KEY: ${{ secrets.THESTATSAPI_KEY }}
+        run: python -m src.fetch_data
+
+      - name: Construir features
+        run: python -m src.build_features
+
+      - name: Entrenar modelos
+        run: python -m src.train
+
+      - name: Subir artefactos
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: model-and-reports
+          path: |
+            models/
+            reports/
+
+      - name: Commitear datos, modelo y reportes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ models/ reports/
+          git diff --cached --quiet || git commit -m "chore: pipeline semanal BTTS-Premier-League [skip ci]"
+          git push
