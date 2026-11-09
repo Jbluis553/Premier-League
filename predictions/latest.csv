@@ -1,51 +1,51 @@
 match_id,kickoff,home_team,away_team,p_btts_yes
-mt_200193867,2026-11-21 12:30:00+00:00,Manchester City,Fulham,0.5596
-mt_022587925,2026-11-21 15:00:00+00:00,Aston Villa,Sunderland,0.547
-mt_377405280,2026-11-21 15:00:00+00:00,Chelsea,Leeds United,0.5572
-mt_466259164,2026-11-21 15:00:00+00:00,Bournemouth,Nottingham Forest,0.5519
-mt_511976329,2026-11-21 15:00:00+00:00,Tottenham Hotspur,Ipswich Town,0.5379
-mt_899742653,2026-11-21 15:00:00+00:00,Coventry City,Crystal Palace,0.5469
-mt_988360414,2026-11-21 17:30:00+00:00,Newcastle United,Arsenal,0.5526
-mt_733621093,2026-11-22 14:00:00+00:00,Hull City,Brighton & Hove Albion,0.5345
-mt_155834700,2026-11-22 16:30:00+00:00,Liverpool,Manchester United,0.55
+mt_200193867,2026-11-21 12:30:00+00:00,Manchester City,Fulham,0.5607
+mt_022587925,2026-11-21 15:00:00+00:00,Aston Villa,Sunderland,0.5501
+mt_377405280,2026-11-21 15:00:00+00:00,Chelsea,Leeds United,0.5577
+mt_466259164,2026-11-21 15:00:00+00:00,Bournemouth,Nottingham Forest,0.5523
+mt_511976329,2026-11-21 15:00:00+00:00,Tottenham Hotspur,Ipswich Town,0.5371
+mt_899742653,2026-11-21 15:00:00+00:00,Coventry City,Crystal Palace,0.5465
+mt_988360414,2026-11-21 17:30:00+00:00,Newcastle United,Arsenal,0.5523
+mt_733621093,2026-11-22 14:00:00+00:00,Hull City,Brighton & Hove Albion,0.5327
+mt_155834700,2026-11-22 16:30:00+00:00,Liverpool,Manchester United,0.552
 mt_644018538,2026-11-23 20:00:00+00:00,Brentford,Everton,0.5489
-mt_511976345,2026-11-27 20:00:00+00:00,Nottingham Forest,Chelsea,0.5414
-mt_200193878,2026-11-28 15:00:00+00:00,Leeds United,Coventry City,0.5397
-mt_988360423,2026-11-28 15:00:00+00:00,Manchester United,Brentford,0.5464
-mt_155834766,2026-11-28 17:30:00+00:00,Ipswich Town,Aston Villa,0.551
-mt_899742609,2026-11-29 12:00:00+00:00,Everton,Liverpool,0.5384
-mt_377405216,2026-11-29 14:05:00+00:00,Crystal Palace,Hull City,0.5528
-mt_466259115,2026-11-29 14:05:00+00:00,Sunderland,Tottenham Hotspur,0.5494
-mt_644018591,2026-11-29 14:05:00+00:00,Brighton & Hove Albion,Newcastle United,0.5458
-mt_733621059,2026-11-29 14:05:00+00:00,Fulham,Bournemouth,0.5384
-mt_022587940,2026-11-29 16:30:00+00:00,Arsenal,Manchester City,0.5337
-mt_988360449,2026-12-01 20:00:00+00:00,Coventry City,Ipswich Town,0.539
-mt_466259120,2026-12-02 19:30:00+00:00,Hull City,Nottingham Forest,0.5423
-mt_733621060,2026-12-02 19:30:00+00:00,Manchester City,Leeds United,0.5572
-mt_155834777,2026-12-02 19:30:00+00:00,Chelsea,Crystal Palace,0.5465
-mt_377405248,2026-12-02 19:30:00+00:00,Liverpool,Sunderland,0.5463
-mt_200193812,2026-12-02 20:15:00+00:00,Newcastle United,Manchester United,0.5464
-mt_644018552,2026-12-02 20:15:00+00:00,Aston Villa,Everton,0.5487
-mt_733621005,2026-12-02 20:15:00+00:00,Brentford,Arsenal,0.5453
-mt_899742665,2026-12-02 20:15:00+00:00,Bournemouth,Brighton & Hove Albion,0.5381
-mt_511976357,2026-12-03 20:00:00+00:00,Tottenham Hotspur,Fulham,0.5463
-mt_200193133,2026-12-05 12:30:00+00:00,Chelsea,Liverpool,0.5429
-mt_466259146,2026-12-05 15:00:00+00:00,Aston Villa,Crystal Palace,0.544
-mt_466259297,2026-12-05 15:00:00+00:00,Manchester United,Coventry City,0.5441
-mt_511976968,2026-12-05 15:00:00+00:00,Leeds United,Ipswich Town,0.5317
-mt_899742686,2026-12-05 15:00:00+00:00,Bournemouth,Hull City,0.5509
-mt_377405452,2026-12-05 17:30:00+00:00,Nottingham Forest,Brighton & Hove Albion,0.5329
-mt_155834711,2026-12-05 20:00:00+00:00,Brentford,Manchester City,0.5359
-mt_644018089,2026-12-06 14:00:00+00:00,Newcastle United,Sunderland,0.5446
-mt_988360306,2026-12-06 14:00:00+00:00,Everton,Fulham,0.5461
-mt_899742727,2026-12-06 16:30:00+00:00,Tottenham Hotspur,Arsenal,0.5414
-mt_022587584,2026-12-12 15:00:00+00:00,Fulham,Brentford,0.5397
-mt_377405404,2026-12-12 15:00:00+00:00,Liverpool,Leeds United,0.5521
-mt_644018015,2026-12-12 15:00:00+00:00,Ipswich Town,Newcastle United,0.5463
-mt_733621641,2026-12-12 17:30:00+00:00,Manchester City,Chelsea,0.5442
-mt_155834834,2026-12-13 14:00:00+00:00,Brighton & Hove Albion,Everton,0.547
-mt_155834893,2026-12-13 14:00:00+00:00,Sunderland,Nottingham Forest,0.5424
-mt_733621617,2026-12-13 14:00:00+00:00,Arsenal,Bournemouth,0.5316
-mt_988360367,2026-12-13 16:30:00+00:00,Coventry City,Aston Villa,0.54
-mt_511976971,2026-12-13 19:00:00+00:00,Crystal Palace,Manchester United,0.5439
-mt_890640006,2026-12-14 20:00:00+00:00,Hull City,Tottenham Hotspur,0.5419
+mt_511976345,2026-11-27 20:00:00+00:00,Nottingham Forest,Chelsea,0.5409
+mt_200193878,2026-11-28 15:00:00+00:00,Leeds United,Coventry City,0.539
+mt_988360423,2026-11-28 15:00:00+00:00,Manchester United,Brentford,0.5477
+mt_155834766,2026-11-28 17:30:00+00:00,Ipswich Town,Aston Villa,0.5477
+mt_899742609,2026-11-29 12:00:00+00:00,Everton,Liverpool,0.5371
+mt_377405216,2026-11-29 14:05:00+00:00,Crystal Palace,Hull City,0.5519
+mt_466259115,2026-11-29 14:05:00+00:00,Sunderland,Tottenham Hotspur,0.5497
+mt_644018591,2026-11-29 14:05:00+00:00,Brighton & Hove Albion,Newcastle United,0.5474
+mt_733621059,2026-11-29 14:05:00+00:00,Fulham,Bournemouth,0.5364
+mt_022587940,2026-11-29 16:30:00+00:00,Arsenal,Manchester City,0.5332
+mt_988360449,2026-12-01 20:00:00+00:00,Coventry City,Ipswich Town,0.5377
+mt_466259120,2026-12-02 19:30:00+00:00,Hull City,Nottingham Forest,0.5414
+mt_733621060,2026-12-02 19:30:00+00:00,Manchester City,Leeds United,0.5578
+mt_155834777,2026-12-02 19:30:00+00:00,Chelsea,Crystal Palace,0.5464
+mt_377405248,2026-12-02 19:30:00+00:00,Liverpool,Sunderland,0.5465
+mt_200193812,2026-12-02 20:15:00+00:00,Newcastle United,Manchester United,0.5472
+mt_644018552,2026-12-02 20:15:00+00:00,Aston Villa,Everton,0.5519
+mt_733621005,2026-12-02 20:15:00+00:00,Brentford,Arsenal,0.5448
+mt_899742665,2026-12-02 20:15:00+00:00,Bournemouth,Brighton & Hove Albion,0.5369
+mt_511976357,2026-12-03 20:00:00+00:00,Tottenham Hotspur,Fulham,0.5461
+mt_200193133,2026-12-05 12:30:00+00:00,Chelsea,Liverpool,0.5418
+mt_466259146,2026-12-05 15:00:00+00:00,Aston Villa,Crystal Palace,0.5471
+mt_466259297,2026-12-05 15:00:00+00:00,Manchester United,Coventry City,0.5454
+mt_511976968,2026-12-05 15:00:00+00:00,Leeds United,Ipswich Town,0.5302
+mt_899742686,2026-12-05 15:00:00+00:00,Bournemouth,Hull City,0.5512
+mt_377405452,2026-12-05 17:30:00+00:00,Nottingham Forest,Brighton & Hove Albion,0.5311
+mt_155834711,2026-12-05 20:00:00+00:00,Brentford,Manchester City,0.5346
+mt_644018089,2026-12-06 14:00:00+00:00,Newcastle United,Sunderland,0.5437
+mt_988360306,2026-12-06 14:00:00+00:00,Everton,Fulham,0.5459
+mt_899742727,2026-12-06 16:30:00+00:00,Tottenham Hotspur,Arsenal,0.5405
+mt_022587584,2026-12-12 15:00:00+00:00,Fulham,Brentford,0.5379
+mt_377405404,2026-12-12 15:00:00+00:00,Liverpool,Leeds United,0.5527
+mt_644018015,2026-12-12 15:00:00+00:00,Ipswich Town,Newcastle United,0.5453
+mt_733621641,2026-12-12 17:30:00+00:00,Manchester City,Chelsea,0.5438
+mt_155834834,2026-12-13 14:00:00+00:00,Brighton & Hove Albion,Everton,0.5486
+mt_155834893,2026-12-13 14:00:00+00:00,Sunderland,Nottingham Forest,0.5419
+mt_733621617,2026-12-13 14:00:00+00:00,Arsenal,Bournemouth,0.5309
+mt_988360367,2026-12-13 16:30:00+00:00,Coventry City,Aston Villa,0.5358
+mt_511976971,2026-12-13 19:00:00+00:00,Crystal Palace,Manchester United,0.5437
+mt_890640006,2026-12-14 20:00:00+00:00,Hull City,Tottenham Hotspur,0.541
