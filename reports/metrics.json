@@ -2,28 +2,28 @@
   "best_model": "logistic_regression",
   "results": {
     "logistic_regression": {
-      "log_loss": 0.688,
+      "log_loss": 0.6879,
       "brier": 0.2474,
-      "roc_auc": 0.4867
+      "roc_auc": 0.4878
     },
     "hist_gradient_boosting": {
-      "log_loss": 0.6885,
-      "brier": 0.2477,
-      "roc_auc": 0.4949
+      "log_loss": 0.6881,
+      "brier": 0.2475,
+      "roc_auc": 0.5011
     }
   },
   "test_period": {
-    "from": "2025-10-18 16:30:00+00:00",
-    "to": "2026-11-07 17:30:00+00:00"
+    "from": "2025-10-24 19:00:00+00:00",
+    "to": "2026-11-08 16:30:00+00:00"
   },
-  "test_size": 399,
-  "base_rate_btts_yes": 0.5514,
+  "test_size": 400,
+  "base_rate_btts_yes": 0.5525,
   "calibration": {
     "prob_true": [
-      0.5513784461152882
+      0.5525
     ],
     "prob_pred": [
-      0.5493351562470064
+      0.5490876616049479
     ]
   }
 }
